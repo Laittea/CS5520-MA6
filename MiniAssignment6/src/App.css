@@ -1,0 +1,11 @@
+.app {
+  text-align: center;
+  padding-left: 200px;
+  
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 100px);
+  background-color: gray; 
+}

@@ -1,0 +1,13 @@
+/* 100px X 100px square, with a 1px solid grey border */
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid grey;
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  .cell.on {
+    background-color: black;
+  }
+  
